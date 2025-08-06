@@ -1,0 +1,10 @@
+hospital_name,file_name
+hospital-a,departments.csv
+hospital-a,encounters.csv
+hospital-a,patients.csv
+hospital-a,providers.csv
+hospital-b,transactions.csv
+hospital-b,departments.csv
+hospital-b,encounters.csv
+hospital-b,patients.csv
+hospital-b,transactions.csv
